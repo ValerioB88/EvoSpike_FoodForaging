@@ -1,0 +1,11 @@
+numpy~=1.23.2
+torch~=1.13.0
+pandas~=1.4.2
+sty~=1.0.4
+
+torchvision~=0.14.0
+dill~=0.3.5.1
+tqdm~=4.64.0
+uvicorn~=0.18.3
+git+https://github.com/ValerioB88/bindsnet.git
+git+https://github.com/ValerioB88/browser-dashboard.git
